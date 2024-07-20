@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://tioneylep.github.io/sitemap
+Sitemap: https://tioneylep.github.io/app/sitemap
+Sitemap: https://tioneylep.github.io/assets/sitemap
+Sitemap: https://tioneylep.github.io/css/sitemap
+Sitemap: https://tioneylep.github.io/includes/sitemap
+Sitemap: https://tioneylep.github.io/item/sitemap
+Sitemap: https://tioneylep.github.io/src/sitemap
